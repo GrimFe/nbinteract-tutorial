@@ -1,3 +1,6 @@
 numpy
+pandas
 ipywidgets
 nbinteract
+matplotlib
+seaborn
