@@ -1,0 +1,9 @@
+Core;AxialPosition;Location;SpectralIndex;C/E - 1 [%] and Uncertainty;Exp. Uncertainty [%];Library
+A;Core Midplane;Lead Assembly;F28/F25;0.8;2;JEFF-3.3
+A;Core Midplane;Lead Assembly;F49/F25;0.85;2;JEFF-3.3
+A;Core Midplane;Lead Assembly;F28/F25;0.9;2;ENDF/B-VIII.0
+A;Core Midplane;Lead Assembly;F49/F25;0.95;2;ENDF/B-VIII.0
+A;Core Midplane;Lead Assembly;F28/F25;0.05;2;JEFF-3.3 std.
+A;Core Midplane;Lead Assembly;F49/F25;0.07;2;JEFF-3.3 std.
+A;Core Midplane;Lead Assembly;F28/F25;0.06;2;ENDF/B-VIII.0 std.
+A;Core Midplane;Lead Assembly;F49/F25;0.09;2;ENDF/B-VIII.0 std.
